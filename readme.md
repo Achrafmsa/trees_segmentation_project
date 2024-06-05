@@ -4,19 +4,6 @@ This repository contains code and resources for a tree segmentation project usin
 
 ## Project Structure
 
-trees_segmentation_project
-├───images
-├───kmeans
-├───models
-└───semantic-drone-dataset
-├───dataset
-│ └───semantic_drone_dataset
-│ ├───label_images_semantic
-│ └───original_images
-└───RGB_color_image_masks
-└───RGB_color_image_masks
-
-
 - **images**: Directory containing images used for testing.
 - **kmeans**: Directory for K-means clustering related files.
 - **models**: Directory where trained models are stored.
